@@ -271,7 +271,7 @@ class LocalModel(object):
         start_date="2016-1-1",
         freq="H",
         covariates=None,
-        use_time=False,
+        use_time=True,
         dti=None,
         Ycov=None,
     ):
